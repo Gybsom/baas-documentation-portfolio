@@ -1,4 +1,4 @@
-# Nova BaaS Platform - API Documentation Portfolio
+# BaaS Platform - API Documentation Portfolio
 
 Welcome! This project is a professional portfolio piece designed to demonstrate technical writing skills by creating clear, structured, and developer-friendly API documentation for a fictional **Banking as a Service (BaaS)** platform.
 
